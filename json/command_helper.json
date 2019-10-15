@@ -1,0 +1,64 @@
+{
+  "create": {
+    "usage": "",
+    "description": "Create yourself a profile",
+    "examples": [
+      "create"
+    ]
+  },
+  "edit": {
+    "usage": "",
+    "description": "Edit your profile (Limited if you're verified)",
+    "examples": [
+      "edit"
+    ]
+  },
+  "profile": {
+    "usage": "",
+    "description": "Display your profile",
+    "examples": [
+      "profile"
+    ]
+  },
+  "swipe": {
+    "usage": "",
+    "description": "Start 'swiping' on other registered users",
+    "examples": [
+      "swipe"
+    ]
+  },
+  "filter": {
+    "usage": "",
+    "description": "Let's you apply certain filters for more specific users to be displayed when swiping",
+    "examples": [
+      "filter"
+    ]
+  },
+  "matches": {
+    "usage": "",
+    "description": "Go through the people you've matched with (Browse between them with ⏪ and ⏩)",
+    "examples": [
+      "matches"
+    ]
+  },
+  "prefixswap": {
+    "usage": "[prefix]",
+    "description": "Changes the prefix for the bot",
+    "examples": ["prefix >", "prefix !"]
+  },
+  "delete": {
+    "usage": "",
+    "description": "Deletes your profile",
+    "examples": ["delete"]
+  },
+  "claim": {
+    "usage": "",
+    "description": "Claim rewards for voting",
+    "examples": ["claim"]
+  },
+  "loveme": {
+    "usage": "[@user]",
+      "description": "Love me?",
+      "examples": ["loveme @Hampe"]
+  }
+}
